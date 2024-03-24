@@ -7,5 +7,20 @@
 		<dict/>
 		<dict/>
 	</array>
+	<key>CFBundleDocumentTypes</key>
+	<array>
+	    <dict>
+	        <key>CFBundleTypeName</key>
+	        <string>NCM File</string>
+	        <key>CFBundleTypeRole</key>
+	        <string>Editor</string>
+	        <key>LSHandlerRank</key>
+	        <string>Owner</string>
+	        <key>LSItemContentTypes</key>
+	        <array>
+	            <string>com.apple.ncm</string>
+	        </array>
+	    </dict>
+	</array>
 </dict>
 </plist>
